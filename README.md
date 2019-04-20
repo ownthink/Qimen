@@ -8,9 +8,13 @@
 * 水果
 * 邮箱 tools/email/email.py
 * 时间
+* ip地址 tools/ip/ip.py
+* url地址 tools/url/url.py
+* 身份证 tools/idcard
+* 邮政编码 postal
+
 
 等等
-
 
 
 
