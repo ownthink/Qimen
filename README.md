@@ -4,9 +4,9 @@
 * 人物
 * 公司
 * 机构
-* 手机号
+* 手机号 tools/phone/phone.py
 * 水果
-* 邮箱
+* 邮箱 tools/email/email.py
 * 时间
 
 等等
